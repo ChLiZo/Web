@@ -4,7 +4,7 @@ This project is build for learning the implementation of the real world School A
 
 Worked by C#, javascript, HTML and CSS.
 
-Based on .Net Framework and SQL use mySQl sevrer.
+Based on .Net Framework and MySQL sevrer.
 
 Following is a simple architecture diagram shows how it works.
 
