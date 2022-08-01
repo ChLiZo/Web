@@ -18,7 +18,7 @@ We write some simple code to build functions.
 
 ## Login Page
 
-Login page is an entry point for using the system.
+Login page is an entry point for using the system.\
 Using conrrect account and password can sign in and would redirect to main page.
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/login.png)
