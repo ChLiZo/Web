@@ -25,15 +25,22 @@ Using conrrect account and password can sign in and would redirect to main page.
 
 ## Main Page
 
+After successful login, it will lead to the bulletin board.
+
 ![](https://github.com/ChLiZo/Web/blob/master/img/mainPage.png)
 
-## Bulletin Board and Comment Board
+## Bulletin Board and Message Board
+
+We added a message board to the bulletin board
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/bulletinBoard.png)
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/commentBoard.png)
 
 ## Course Selection System
+
+In the course selection system, students can choose courses, withdraw courses and search courses by teacher./
+Also can view the current course schedule.
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/course.png)
 
@@ -43,11 +50,17 @@ Using conrrect account and password can sign in and would redirect to main page.
 
 ## User Page
 
+In user page, users can modify their profile.
+
 ![](https://github.com/ChLiZo/Web/blob/master/img/userPage.png)
 
 ## Administrator
 
+Administrators can add and delete accounts.
+
 ![](https://github.com/ChLiZo/Web/blob/master/img/administratorInterface.png)
+
+Course content can also be modified.
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/manuplateClass.png)
 
