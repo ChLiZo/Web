@@ -6,6 +6,8 @@ Worked by C#, javascript, HTML and CSS.
 
 Based on .Net Framework and MySQL sevrer.
 
+[Source code](https://github.com/ChLiZo/Web/tree/master/%E5%B0%88%E6%A1%88%E7%A8%8B%E5%BC%8F%E7%A2%BC/sis)
+
 Following is a simple architecture diagram shows how it works.
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/%E7%B0%A1%E5%96%AE%E6%9E%B6%E6%A7%8B.png)
