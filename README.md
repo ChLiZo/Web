@@ -43,7 +43,7 @@ Using conrrect account and password can sign in and would redirect to main page.
 
 ## User Page
 
-![](https://github.com/ChLiZo/Web/blob/master/userPage.png)
+![](https://github.com/ChLiZo/Web/blob/master/img/userPage.png)
 
 ## Administrator
 
