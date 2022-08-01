@@ -25,3 +25,29 @@ Using conrrect account and password can sign in and would redirect to main page.
 
 ## Main Page
 
+![](https://github.com/ChLiZo/Web/blob/master/img/mainPage.png)
+
+## Bulletin Board and Comment Board
+
+![](https://github.com/ChLiZo/Web/blob/master/img/bulletinBoard.png)
+
+![](https://github.com/ChLiZo/Web/blob/master/img/commentBoard.png)
+
+## Course Selection System
+
+![](https://github.com/ChLiZo/Web/blob/master/img/course.png)
+
+![](https://github.com/ChLiZo/Web/blob/master/img/findClass.png)
+
+![](https://github.com/ChLiZo/Web/blob/master/img/schedule.png)
+
+## User Page
+
+![](https://github.com/ChLiZo/Web/blob/master/userPage.png)
+
+## Administrator
+
+![](https://github.com/ChLiZo/Web/blob/master/img/administratorInterface.png)
+
+![](https://github.com/ChLiZo/Web/blob/master/img/manuplateClass.png)
+
