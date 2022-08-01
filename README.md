@@ -39,12 +39,13 @@ We added a message board to the bulletin board
 
 ## Course Selection System
 
-In the course selection system, students can choose courses, withdraw courses and search courses by teacher./
-Also can view the current course schedule.
+In the course selection system, students can choose courses, withdraw courses and search courses by teacher.
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/course.png)
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/findClass.png)
+
+Also can view the current course schedule.
 
 ![](https://github.com/ChLiZo/Web/blob/master/img/schedule.png)
 
